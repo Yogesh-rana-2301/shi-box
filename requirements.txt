@@ -1,7 +1,0 @@
-flask==1.0.1
-
-# the numbers determine the major, minor and the patch changes. 
-
-django>=1.0.2,<2.0
-requests
-uvicorn
