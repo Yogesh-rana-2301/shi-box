@@ -1,4 +1,4 @@
-# JWT (JSON Web Token) Complete Guide
+# JWT (JSON Web Token)
 
 ## 🔹 Introduction to JWT
 
